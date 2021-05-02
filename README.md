@@ -1,2 +1,2 @@
-# Python-and-you-get-download-SCTV3-vedios
+# Use python and you-get to download all malatang vedios
 python+(you-get) 
